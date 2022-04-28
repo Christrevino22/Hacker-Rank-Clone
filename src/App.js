@@ -1,9 +1,10 @@
-import './App.css';
+import GetPosts from "./Components/Posts"
 
 function App() {
   return (
     <div className="App">
-     <h1>THIS WILL BE HACKER RANK FOOO</h1>
+     <h1>CHRIS'S POKEDEX</h1>
+     <GetPosts/>
     </div>
   );
 }
